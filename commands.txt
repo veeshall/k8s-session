@@ -1,5 +1,3 @@
-# k8s-session
-
 #1
 go run hello.go
 
